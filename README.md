@@ -10,7 +10,7 @@
 
 [NOTION] https://www.notion.so/new-drug-development-2487edc1679f801eb7d6ccd6499f7461?source=copy_link
 
-[TRIAL RECORD] https://docs.google.com/presentation/d/1Yoj7KO3SxgE1dQTXVnxCpKQLpQjx1G3-/edit?usp=drive_link&ouid=112612680213190427314&rtpof=true&sd=true 
+[TRIAL RECORD] https://docs.google.com/presentation/d/1NGXDjFSaxjdpGRX0pggkybZrsZDLSRrO/edit?usp=sharing&ouid=112612680213190427314&rtpof=true&sd=true
 
 ### scICE
 [NOTION] https://www.notion.so/scICE-Nature-Communications-2317edc1679f803cbb02e26d883348de?source=copy_link
